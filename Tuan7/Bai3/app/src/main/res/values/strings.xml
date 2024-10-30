@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Bai3</string>
+    <string name="h_t_n">Họ tên</string>
+    <string name="n">Nữ</string>
+    <string name="s_i_n_tho_i">Số điện thoại</string>
+    <string name="ch_n_ng_y_sinh">Chọn ngày sinh</string>
+    <string name="n_i_hi_n_t_i">Nơi ở hiện tại</string>
+    <string name="prompt_ward">Phường/Xã</string>
+    <string name="prompt_district">Quận/Huyện</string>
+    <string name="prompt_city">Tỉnh/Thành</string>
+    <string name="s_th_ch">Sở thích</string>
+    <string name="th_thao">Thể thao</string>
+    <string name="i_n_nh">Điện ảnh</string>
+    <string name="m_nh_c">Âm nhạc</string>
+    <string name="t_i_ng_v_i_c_c_i_u_kho_n">Tôi đồng ý với các điều khoản</string>
+
+    <string-array name="ward">
+        <item>Hoằng Hóa</item>
+        <item>Phương Nghị</item>
+        <item>Thị trấn Bút sơn</item>
+    </string-array>
+
+    <string-array name="city">
+        <item>Thanh Hóa</item>
+        <item>Hà Nội</item>
+        <item>Hải Phòng</item>
+    </string-array>
+
+
+    <string-array name="district">
+        <item>Hoằng Vinh</item>
+        <item>Hoằng Lộc</item>
+        <item>Hoằng Trường</item>
+    </string-array>
+
+</resources>
